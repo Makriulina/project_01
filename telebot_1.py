@@ -1,4 +1,4 @@
-
+!pip install telebot
 import telebot
 
 bot = telebot.TeleBot("6422319355:AAF73XZbfr0QipeeQlCtDnN4g60I_2BglZI")
